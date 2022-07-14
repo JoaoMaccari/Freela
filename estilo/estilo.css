@@ -21,7 +21,9 @@ body{
 .container{
     width: 1075px;
     height: 700px;
-    position: relative;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%  );
 }
 
 .div-logo{
